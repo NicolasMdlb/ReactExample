@@ -28,5 +28,23 @@
       "Name": "Hulk",
       "Thumbnail": "src\\assets\\ThumbnailHeroes\\Hulk Thumbnail.jpg"
     }
-  ]
+  ],
+	"Entreprises": [
+    {
+      "Name": "Ms Marvel",
+      "Thumbnail": "src\\assets\\ThumbnailHeroes\\Ms Marvel Thumbnail.jpg"
+    },
+    {
+      "Name": "Hawkeye",
+      "Thumbnail": "src\\assets\\ThumbnailHeroes\\Hawkeye Thumbnail.jpg"
+    },
+    {
+      "Name": "Black Widow",
+      "Thumbnail": "src\\assets\\ThumbnailHeroes\\Black Widow Thumbnail.jpg"
+    },
+    {
+      "Name": "Hulk",
+      "Thumbnail": "src\\assets\\ThumbnailHeroes\\Hulk Thumbnail.jpg"
+    }
+	]
 }

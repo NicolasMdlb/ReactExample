@@ -1,5 +1,5 @@
 import React from "react";
-import Thumbnail from "./../../components/thumbnail/index";
+import Thumbnail from "../../components/thumbnail/index";
 import "./style.css";
 
 function Heroes() {
