@@ -1,6 +1,6 @@
 import React from "react";
 import Thumbnail from "../../components/thumbnail/index";
-import "./style.css";
+import "../../styles/thumbnail_list.css";
 
 function Heroes() {
   var arrThumbnail = [];

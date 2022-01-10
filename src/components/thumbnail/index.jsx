@@ -1,5 +1,5 @@
 import React from "react";
-import "./style.css";
+import "../../styles/thumbnail.css";
 import waitImage from "./../../assets/animated-waiting-circle-5.gif";
 
 function Thumbnail(props) {

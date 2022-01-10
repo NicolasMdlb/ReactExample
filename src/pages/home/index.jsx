@@ -1,7 +1,8 @@
 import React from "react";
-import "./style.css";
 import Thumbnail from "../../components/thumbnail/index";
 import { editors } from "../../data/editors"
+import "../../styles/home.css";
+import "../../styles/thumbnail_list.css";
 
 // TODO: onClick recuperer l'id de la marque et envoyer cette ID dans le URL
 // TODO: Utislie un Link pour rediriger vers la page souhaiter
