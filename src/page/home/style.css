@@ -1,0 +1,10 @@
+.title {
+  display:flex;
+  flex-direction: column;
+  padding: 2em;
+}
+
+.title > h1 {
+  font-style: italic;
+  text-decoration: underline;
+}

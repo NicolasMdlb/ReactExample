@@ -1,0 +1,15 @@
+header {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(144, 198, 243);
+  border-radius: 0 0 1.5em 1.5em;
+  box-shadow: 1px 5px 24px 3px rgba(82, 82, 82, 0.75);
+  -webkit-box-shadow: 1px 5px 24px 3px rgba(82, 82, 82, 0.75);
+  -moz-box-shadow: 1px 5px 24px 3px rgba(82, 82, 82, 0.75);
+}
+
+.navbar {
+  margin-left: 1.5em;
+  color: whitesmoke;
+  text-shadow: -1px 1px 20px rgba(0, 0, 0, 0.6);
+}

@@ -1,0 +1,27 @@
+.thumbnail-space {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-auto-flow: row;
+  /*Espacement entre colonne*/
+  row-gap: 1.5em;
+  column-gap: 1.5em;
+  justify-content: center;
+}
+
+@media (max-width: 1600px) {
+  .thumbnail-space {
+    grid-template-columns:  1fr 1fr 1fr;
+  }
+}
+
+@media (max-width: 1200px) {
+  .thumbnail-space {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .thumbnail-space {
+    grid-template-columns: 1fr;
+  }
+}
